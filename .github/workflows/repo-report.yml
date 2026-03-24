@@ -1,4 +1,4 @@
-Repo Analysis Report
+name: Repo Analysis Report
 
 on:
   workflow_dispatch:
